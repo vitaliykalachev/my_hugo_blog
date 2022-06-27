@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jun 2022 20:41:55 +0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 2</title>
+      <link>http://example.org/posts/post-2/</link>
+      <pubDate>Sun, 26 Jun 2022 20:41:55 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How snacks made me a better person</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Sun, 26 Jun 2022 20:25:50 +0700</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>Dummy Image With Link to Itself 13 myths uncovered about healthy eating facts. How to cheat at food stamps and get away with it. How food processors can make you sick. How twitter can teach you about dinner ideas. Why you&amp;rsquo;ll never succeed at thai restaurants. 12 ways thai restaurants could leave you needing a lawyer. How breakfast ideas are making the world a better place. Why you shouldn&amp;rsquo;t eat delicious food in bed.</description>
+    </item>
+    
+  </channel>
+</rss>
