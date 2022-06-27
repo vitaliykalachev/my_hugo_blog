@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://venerable-nougat-dfc00c.netlify.app'
 languageCode = 'en-us'
 title = 'My Site'
 paginate = 3
